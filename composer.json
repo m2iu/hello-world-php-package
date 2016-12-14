@@ -1,0 +1,19 @@
+{
+    "name": "m2iu/hello-world",
+    "description": "Hello world composer project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "m2iu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\": "src/"
+        }
+    }
+}
