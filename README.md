@@ -1,2 +1,2 @@
 # hello-world-php-package
-Hello World PHP Package
+Hello World PHP Package.
